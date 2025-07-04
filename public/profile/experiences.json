@@ -1,0 +1,45 @@
+{
+    "experiences": [
+        {
+            "title": "1337 ",
+            "subtitle": "42 Advanced Part",
+            "workDescription": [
+                " This part  contains several professional experiences (internships, part-time jobs, …)."
+            ],
+            "dateText": "2025 - Current"
+        },
+        
+        {
+            "title": "Freelancer",
+            "subtitle": "Developer Web",
+            "workDescription": [
+                "Web: the field of design and creation of dynamic (responsive) applications and websites, as well as digital art."
+            ],
+            "dateText": "2020 - 2025"
+        },
+        {
+            "title": "Employee: Best Solution consulting",
+            "subtitle": "Developer, Web Integrator",
+            "workDescription": [
+                "Creation of dynamic websites and templates."
+            ],
+            "dateText": "2018- 2019"
+        },
+        {
+            "title": "Practical internship",
+            "subtitle": "Executing Command Line Application",
+            "workDescription": [
+                "At the National Office of Electricity and Drinking Water (National Office of Electricity and Drinking Water) in the Water Branch."
+            ],
+            "dateText": "03/2014 - 04/2014"
+        },
+        {
+            "title": "Practical internship",
+            "subtitle": "Desktop Application Developer Internship",
+            "workDescription": [
+                "Ausien service (IDK/CB/B-426) at OCP. Development of a FUEL management application."
+            ],
+            "dateText": " 03/2013 - 04/2013"
+        }
+    ]
+}

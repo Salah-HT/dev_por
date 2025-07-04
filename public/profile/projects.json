@@ -1,0 +1,242 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/trr.png",
+            "title": "Ft_transcendence",
+            "bodyText": "- A modern online gaming platform built with Django and React, featuring real-time multiplayer games, chat system, and comprehensive user management.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/Ft_transcendence"
+                }
+            ],
+            "tags": [
+                "Backend",
+                "Frontend",
+                "Database",
+                "Security",
+                "Monitoring ",
+                "Cache"
+            ]
+        },
+        {
+            "image": "images/projects/inc.png",
+            "title": "Inception - Containerized WordPress Stack",
+            "bodyText": "- A Docker-based WordPress application with NGINX, MariaDB, and bonus services including Redis, FTP, Adminer, and a static website.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/inception-1337"
+                }
+            ],
+            "tags": [
+                "Docker",
+                "Wordpress",
+                "Ftp",
+                "VM",
+                "Nginx",
+                "Adminer",
+                "MariaDb"
+            ]
+        },
+        {
+            "image": "images/projects/cp.jpg",
+            "title": "CPP Modules - 1337",
+            "bodyText": "- This repository contains C++ programming exercises organized into different modules, each focusing on specific C++ concepts and features.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/Ft_IRC"
+                }
+            ],
+            "tags": [
+                "Server",
+                "Client",
+                "Channel",
+                "Sockets",
+                "Event loop"
+            ]
+        },
+        {
+            "image": "images/projects/irc.jpg",
+            "title": "Ft_IRC - Internet Relay Chat Server",
+            "bodyText": "- A complete IRC (Internet Relay Chat) server implementation in C++ that supports multiple concurrent clients, channel-based communication, and standard IRC protocol compliance.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/CPP_Modules-1337"
+                }
+            ],
+            "tags": [
+                "Ford-Johnson",
+                "merge-insert ",
+                "C++98 ",
+                "OOP"
+            ]
+        },
+        {
+            "image": "images/projects/minitalk.jpg",
+            "title": "MiniTalk",
+            "bodyText": "- Demonstrates low-level process communication by encoding text messages as binary data transmitted bit-by-bit through signals..",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/Minitalk-1337?tab=readme-ov-file"
+                }
+            ],
+            "tags": [
+                "getpid()",
+                "sigaction()",
+                "signal()",
+                "kill()",
+                "SIGUSR2",
+                "SIGUSR1",
+                "Signals"
+            ]
+        },
+        {
+            "image": "images/projects/cub.jpg",
+            "title": "Cub3D - 3D Raycasting Engine",
+            "bodyText": "- A 3D maze navigation system that renders first-person perspective environments from 2D map files using classic raycasting algorithms, similar to early 3D games like Wolfenstein 3D.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "hhttps://github.com/Salah-HT/Cub3d-1337"
+                }
+            ],
+            "tags": [
+                "MLX42",
+                "GLFW",
+                "3d-2d",
+                "raycasting"
+            ]
+        },
+        {
+            "image": "images/projects/mini.png",
+            "title": "Mini_shell",
+            "bodyText": "- A simplified Unix shell implementation written in C that provides a command-line interface for executing system commands, managing environment variables, and handling basic shell operations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/Minishell-1337"
+                }
+            ],
+            "tags": [
+                "C",
+                "Memory Management",
+                "Fork Mutexes",
+                "Libft",
+                "Echo",
+                "Cmd",
+                "Cd"
+            ]
+        },
+        {
+            "image": "images/projects/philo.jpg",
+            "title": "Philosophers - Dining Philosophers Problem",
+            "bodyText": "- A multi-threaded simulation of the classic dining philosophers problem implemented in C using POSIX threads and mutexes.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags": [
+                "Mutex",
+                "Deadlock",
+                "Thread",
+                "Memory Management",
+                "C",
+                "Ordered Acquisition",
+                "multi-threaded",
+                "Fork Mutexes"
+            ]
+        },
+        {
+            "image": "images/projects/long.png",
+            "title": "So_long First 2d game project ",
+            "bodyText": "- A 2D game project developed as part of the 42 School curriculum. The game is built using the MLX graphics library and implements a simple collectible-based gameplay where the player navigates through a map to collect items and reach the exit.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/so_long-1337-"
+                }
+            ],
+            "tags": [
+                "C",
+                "ALGO",
+                "Pointer",
+                "Libft Function"
+            ]
+        },
+        {
+            "image": "images/projects/push.png",
+            "title": "Push_Swap ",
+            "bodyText": "- A 42 School project that implements an efficient sorting algorithm using two stacks and a limited set of operations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/push_swap_1337"
+                }
+            ],
+            "tags": [
+                "array",
+                "ALGO",
+                "Pointer",
+                "Libft Function",
+                "sorting algorithms",
+                "movement functions"
+            ]
+        },
+        {
+            "image": "images/projects/get.png",
+            "title": "GetNextLine ",
+            "bodyText": "- A C library for reading lines from file descriptors, supporting both single and multiple file descriptor operations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/get_next_line-1337"
+                }
+            ],
+            "tags": [
+                "C",
+                "ALGO",
+                "Pointer",
+                "Libft Function"
+            ]
+        },
+        {
+            "image": "images/projects/ft-printf.jpg",
+            "title": "Ft_printf",
+            "bodyText": "- This project is a custom implementation of the standard C printf function. The goal is to gain a deeper understanding of how variadic functions work in C by recreating the behavior of printf from scratch.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/ft_printf_1337"
+                }
+            ],
+            "tags": [
+                "C",
+                " pointer",
+                "Variadic functions"
+            ]
+        },
+        {
+            "image": "images/projects/libft.png",
+            "title": "Libft.a ",
+            "bodyText": "- Write your own library, containing an extract of important functions for your cursus.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/libft-1337"
+                }
+            ],
+            "tags": [
+                "c",
+                "Algo",
+                "Function",
+                "Pointer"
+            ]
+        }
+    ]
+}
