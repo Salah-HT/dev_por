@@ -1,15 +1,15 @@
 {
     "social": [
         {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "network": "linkedin",
+            "href": "https://www.linkedin.com/in/salah-ht/"
         },
         {
-            "network" : "github",
+            "network": "github",
             "href": "https://github.com/Salah-HT"
         },
         {
-            "network" : "email",
+            "network": "email",
             "href": "mailto:salah.hamsate@gmail.com"
         }
     ]
