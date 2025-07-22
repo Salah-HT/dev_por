@@ -1,36 +1,34 @@
 {
-    "education":[
+    "education": [
         {
             "title": "1337 Coding-School.",
             "cardTitle": "Common core achieved at: 100%.",
-            "cardSubtitle":"I have graduated as a junior developer in 2025",
+            "cardSubtitle": "I have graduated as a junior developer in 2025",
             "cardDetailedText": "KHOURIBGA ."
         },
         {
-            "title": "SPECIALIZED TECHNICIAN TDM 2017",
+            "title": "TDM 2017",
             "cardTitle": "A TDM YEAR : Specialized Technician in Multimedia Development.",
-            "cardSubtitle":"Specialized Institute of Management and Information Technology",
+            "cardSubtitle": "Specialized Institute of Management and Information Technology",
             "cardDetailedText": "KHOURIBGA ."
         },
         {
-            "title": "Professional University Degree 2015",
+            "title": "University 2015",
             "cardTitle": "Professional University Degree (LMIAGE):Computer Methods Applied to Business Management",
-            "cardSubtitle":"Faculty of Science and Technology",
+            "cardSubtitle": "Faculty of Science and Technology",
             "cardDetailedText": "Settat (FSTS)."
         },
         {
-            "title": "SPECIALIZED TECHNICIAN (TDI) 2013",
+            "title": "TDI 2013",
             "cardTitle": "Specialized Technician Diploma in IT Development.",
-            "cardSubtitle":"Specialized Institute of Management and Computer Science",
+            "cardSubtitle": "Specialized Institute of Management and Computer Science",
             "cardDetailedText": "KHOURIBGA ."
         },
         {
-            "title": "HIGH SCHOOL (BACCALAUREATE) 2011",
+            "title": "HIGH SCHOOL 2011",
             "cardTitle": "Baccalaureate: Science of Life and Earth",
-            "cardSubtitle":"Ibn Abdoun High School",
+            "cardSubtitle": "Ibn Abdoun High School",
             "cardDetailedText": "KHOURIBGA ."
         }
-
     ]
 }
-
