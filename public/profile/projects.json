@@ -1,5 +1,24 @@
 {
     "projects": [
+         {
+            "image": "images/projects/iot2.png",
+            "title": "Inception-of-things",
+            "bodyText": "- Inception of Things is a technical project focused on introducing students to Kubernetes and container orchestration.  shifting the focus from simple Docker containers to managing multi-node clusters.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Salah-HT/Ft_transcendence"
+                }
+            ],
+            "tags": [
+                "Vagrant",
+                "Cluster",
+                "Database",
+                "K8s",
+                "Argocd ",
+                "K3d"
+            ]
+        },
         {
             "image": "images/projects/trr.png",
             "title": "Ft_transcendence",
